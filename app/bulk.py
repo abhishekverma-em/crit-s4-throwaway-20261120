@@ -1,3 +1,8 @@
+bulk_001 = 1
+bulk_002 = 2
+bulk_003 = 3
+bulk_004 = 4
+bulk_005 = 5
 bulk_006 = 6
 bulk_007 = 7
 bulk_008 = 8
