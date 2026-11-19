@@ -27,7 +27,7 @@ def f026(x):  # line 26
 def f027(x):  # line 27
 def f028(x):  # line 28
 def f029(x):  # line 29
-def f030(x):  # line 30
+def f030(x, y=0):  # line 30 changed
 def f031(x):  # line 31
 def f032(x):  # line 32
 def f033(x):  # line 33
@@ -58,6 +58,9 @@ def f057(x):  # line 57
 def f058(x):  # line 58
 def f059(x):  # line 59
 def f060(x):  # line 60
+# added A after 60
+# added B after 60
+# added C after 60
 def f061(x):  # line 61
 def f062(x):  # line 62
 def f063(x):  # line 63
@@ -87,8 +90,6 @@ def f086(x):  # line 86
 def f087(x):  # line 87
 def f088(x):  # line 88
 def f089(x):  # line 89
-def f090(x):  # line 90
-def f091(x):  # line 91
 def f092(x):  # line 92
 def f093(x):  # line 93
 def f094(x):  # line 94
